@@ -37,3 +37,5 @@ Input is provided as a single string. Your output should be True or False accord
 **Input Format and Restrictions**
 
 Each test case will consist of a string only containing the characters ()[]{}. The length of the string will not exceed 2KB.
+
+https://www.hackerrank.com/contests/programming-interview-questions/challenges/balanced-delimiters
