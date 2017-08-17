@@ -28,11 +28,11 @@ Input is provided as a single string. Your output should be True or False accord
 
 *Input:*
 
-([{}])
+> ([{}])
 
 *Output:*
 
-True
+> True
 
 **Input Format and Restrictions**
 
